@@ -1,4 +1,4 @@
-# Stocks Under 100$ USA (inc/ fractional shares)
+# Stocks Under 100$ USA
 
 - Occidental Petroleum
 - Gulfport
@@ -24,7 +24,7 @@
 - Kinross Gold
 - Turquoise Hill Resources
 - Trimble
-- Tesla
+- Tesla (Fractional)
 - NIO
 - Adient
 - Stellantis
@@ -33,7 +33,7 @@
 - JDcom
 - Caleres
 - Kontoor
-- Amazon
+- Amazon (Fractional)
 - American Airlines
 - Delta Air Lines
 - Tupperware
@@ -85,4 +85,3 @@
 - Trip
 - CBL & Associates
 - AGNC Investment
-- 
