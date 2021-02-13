@@ -1,4 +1,4 @@
-# Stocks Under 100$ USA
+# Stocks Under 100$ USA (inc/ fractional shares)
 
 - Occidental Petroleum
 - Gulfport
